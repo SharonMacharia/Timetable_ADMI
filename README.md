@@ -23,3 +23,5 @@ Another approach would be just to paste the url
 ![google icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4PGhRTJNo7sKhguoZmpbAXdAsA5X2sirXMYkAHtk9-sDH8tJ8Q)
 
 google logo 
+
+<img src="google logo.png" height="200" width="600"/>
